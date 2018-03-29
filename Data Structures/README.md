@@ -27,7 +27,7 @@ avlDict.lookup("key");
 ```
 avlDict.remove("key");
 ```
-#### Printing the Tree (not implemented for Dictionary.h
+#### Printing the Tree (not implemented for Dictionary.h)
 ```
 avlDict.printTree();
 ```
