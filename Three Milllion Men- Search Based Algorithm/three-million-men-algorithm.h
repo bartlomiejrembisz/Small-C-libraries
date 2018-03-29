@@ -43,7 +43,7 @@ void Extract(const std::string &filePath)
 
 	const short numIter = 3;
 	long long totalTime = 0;
-	std::string file = "50.txt";
+	std::string file = "new" + filePath;
 		
 	std::cout << "File: " << file << std::endl;
 	std::cout << "Time 1 (ms):\tTime 2 (ms):\tTime 3 (ms):\tAverage (ms):" << std::endl;
