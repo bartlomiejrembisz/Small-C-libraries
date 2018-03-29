@@ -1,13 +1,14 @@
 # Data Structures
-Data structures built as templates using recursive worker/wrapper functions. 
-The data structures utilize linked lists as internal data structures.
+Data structures built as templates using recursive worker/wrapper functions.
 
 ## AVL.h
-Self balancing binary tree built on top of BST.h
+A dictionary class utilizing a self balancing binary tree built on top of BST.h
 
 ## BST.h
+A non-balancing dictionary class utilizing a binary tree as the internal data structure.
 
 ## Dictionary.h
+Dictionary utilizing a singly linked list as the internal data structure
 
 ### Basic usage:
 The data structures are used the exact same way, they differ in internal data structures and algorithms
