@@ -1,12 +1,12 @@
 # Small C++ Projects
 
-- Dictionaries
+## Dictionaries
   - Singly Linked List dictionary
   - Binary tree dictionary
   - AVL dictionary
   
-- NMEA Sentence Parser
+## NMEA Sentence Parser
 
-- Three Million Men problem solving algorithm
+## Three Million Men problem solving algorithm
 
-- Unit Tests for a GPX framework
+## Unit Tests for a GPX framework
