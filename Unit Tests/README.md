@@ -1,6 +1,7 @@
 # Unit Tests for a GPX Framework
 
 The following unit tests test a function that returns the maximum rate of descent.
+Developed using the BOOST Unit Testing libary.
 
 **Function:** Track::maxRateOfDescent
 **Test Case:** checkForClimb
